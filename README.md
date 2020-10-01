@@ -1,2 +1,2 @@
 # aryan-raj
-i am student of bca 
+I am a student of BCA
